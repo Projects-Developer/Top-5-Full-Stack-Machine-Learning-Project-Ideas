@@ -1,4 +1,4 @@
-# Top-5-Full-Stack-Machine-Learning-Project-Ideas-
+# Top-5-Full-Stack-Machine-Learning-Project-Ideas
 Top 5 Full Stack Machine Learning Project Ideas With Code, Documetn And Vidoe Tutorial 
 
 ## Youtube Link: https://youtu.be/r6wh52p1vAo?si=oVGumr4tQKg40OHO
